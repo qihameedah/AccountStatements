@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135540186701",
+    "project_id": "as-jala",
+    "storage_bucket": "as-jala.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135540186701:android:96eba2b3b2ca1170d7c604",
+        "android_client_info": {
+          "package_name": "com.example.view_selector_example2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXFKFu-4HN2zgor0hAdVl-i2R-RNJUGyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
