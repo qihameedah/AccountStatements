@@ -145,7 +145,7 @@ class _DocScreenState extends State<DocScreen> {
 
   // Compact summary cell builder for the summary table
   pw.Widget _buildCompactSummaryCell(String text, pw.Font font,
-      {bool isValue = false, bool isLabel = false}) {
+      {bool isLabel = false}) {
     return pw.Container(
       padding: const pw.EdgeInsets.symmetric(vertical: 4, horizontal: 6),
       child: pw.Text(
